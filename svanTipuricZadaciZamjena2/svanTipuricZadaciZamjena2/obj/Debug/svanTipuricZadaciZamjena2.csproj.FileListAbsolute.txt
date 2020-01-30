@@ -1,0 +1,5 @@
+C:\Users\3.D\source\repos\svanTipuricZadaciZamjena2\svanTipuricZadaciZamjena2\obj\Debug\svanTipuricZadaciZamjena2.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\svanTipuricZadaciZamjena2\svanTipuricZadaciZamjena2\obj\Debug\svanTipuricZadaciZamjena2.Form1.resources
+C:\Users\3.D\source\repos\svanTipuricZadaciZamjena2\svanTipuricZadaciZamjena2\obj\Debug\svanTipuricZadaciZamjena2.Properties.Resources.resources
+C:\Users\3.D\source\repos\svanTipuricZadaciZamjena2\svanTipuricZadaciZamjena2\obj\Debug\svanTipuricZadaciZamjena2.csproj.GenerateResource.cache
+C:\Users\3.D\source\repos\svanTipuricZadaciZamjena2\svanTipuricZadaciZamjena2\obj\Debug\svanTipuricZadaciZamjena2.csproj.CoreCompileInputs.cache
