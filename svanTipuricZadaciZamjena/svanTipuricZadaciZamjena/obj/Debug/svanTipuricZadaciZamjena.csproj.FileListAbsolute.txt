@@ -1,0 +1,10 @@
+C:\Users\3.D\source\repos\svanTipuricZadaciZamjena\svanTipuricZadaciZamjena\bin\Debug\svanTipuricZadaciZamjena.exe.config
+C:\Users\3.D\source\repos\svanTipuricZadaciZamjena\svanTipuricZadaciZamjena\bin\Debug\svanTipuricZadaciZamjena.exe
+C:\Users\3.D\source\repos\svanTipuricZadaciZamjena\svanTipuricZadaciZamjena\bin\Debug\svanTipuricZadaciZamjena.pdb
+C:\Users\3.D\source\repos\svanTipuricZadaciZamjena\svanTipuricZadaciZamjena\obj\Debug\svanTipuricZadaciZamjena.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\svanTipuricZadaciZamjena\svanTipuricZadaciZamjena\obj\Debug\svanTipuricZadaciZamjena.Form1.resources
+C:\Users\3.D\source\repos\svanTipuricZadaciZamjena\svanTipuricZadaciZamjena\obj\Debug\svanTipuricZadaciZamjena.Properties.Resources.resources
+C:\Users\3.D\source\repos\svanTipuricZadaciZamjena\svanTipuricZadaciZamjena\obj\Debug\svanTipuricZadaciZamjena.csproj.GenerateResource.cache
+C:\Users\3.D\source\repos\svanTipuricZadaciZamjena\svanTipuricZadaciZamjena\obj\Debug\svanTipuricZadaciZamjena.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\svanTipuricZadaciZamjena\svanTipuricZadaciZamjena\obj\Debug\svanTipuricZadaciZamjena.exe
+C:\Users\3.D\source\repos\svanTipuricZadaciZamjena\svanTipuricZadaciZamjena\obj\Debug\svanTipuricZadaciZamjena.pdb
